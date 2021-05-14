@@ -1,2 +1,2 @@
 # Todo-List-Bootstrap
-ToDo List designed using bootstrap
+ToDo List uses Bootstrap Framework, Google Firestore and Brower's Local Storage
